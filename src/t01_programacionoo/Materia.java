@@ -5,7 +5,7 @@ public class Materia {
 
 	void estudiarprueba() {
 		Estudiante estudiante = new Estudiante();
-		estudiante.aprender();
+		estudiante.aprender(nombre);
 	}
 
 	void aprender() {
