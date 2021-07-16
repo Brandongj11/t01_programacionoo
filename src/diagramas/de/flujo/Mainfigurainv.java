@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Mainfigurainv {
 
-	//Excelente trabajo de clase
+	//Excelente trabajo de clase 6
 	public static void main(String[] args) {
 		System.out.print("Ingrese el numero de filas:");
 		Scanner teclado = new Scanner(System.in);
