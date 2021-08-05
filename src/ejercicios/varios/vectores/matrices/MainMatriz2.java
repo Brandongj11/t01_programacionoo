@@ -29,7 +29,7 @@ public class MainMatriz2 {
 					for (int columna = 0; columna < LongitudColumna ; columna++) {
 						System.out.print(A[fila][columna]+"");
 					}
-
+					System.out.println();
 				}
 			}
 		}
