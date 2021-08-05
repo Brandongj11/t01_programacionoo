@@ -24,9 +24,10 @@ public class MainMatriz2 {
 						A[fila][columna] = n;
 					}
 				}
+				System.out.println("Iniciamos a Imprimir la matriz");
 				for (int fila = 0; fila < LongitudFila ; fila++) {
 					for (int columna = 0; columna < LongitudColumna ; columna++) {
-						System.out.println("El valor fila " + fila + " y la columna " + columna + " es : " + A[fila][columna]);
+						System.out.print(A[fila][columna]+"");
 					}
 
 				}
