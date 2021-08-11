@@ -31,17 +31,17 @@ public class EjerciciosDeVectores {
 	Z[10] = 11;
 	Z[11] = 12;
 	//6.
-	int Y[] = new int[10];
-	Y[0] = 1;
-	Y[1] = 3;
-	Y[2] = 5;
-	Y[3] = 7;
-	Y[4] = 9;
-	Y[5] = 11;
-	Y[6] = 13;
-	Y[7] = 15;
-	Y[8] = 17;
-	Y[9] = 19;
+	int Y1[] = new int[10];
+	Y1[0] = 1;
+	Y1[1] = 3;
+	Y1[2] = 5;
+	Y1[3] = 7;
+	Y1[4] = 9;
+	Y1[5] = 11;
+	Y1[6] = 13;
+	Y1[7] = 15;
+	Y1[8] = 17;
+	Y1[9] = 19;
 	//7.
 	char H[] = new char[10];
 	H[1] = 'A';
@@ -64,7 +64,7 @@ public class EjerciciosDeVectores {
 	L[7] = 126;
 	L[10] = 5;
 	//10.
-	int N[] = new int[12];
+	double N[] = new double[12];
 	N[0] = 7.33;
 	N[4] = 25;
 	N[12] = 105;//Esta linea da error
