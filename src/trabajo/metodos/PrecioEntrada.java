@@ -7,5 +7,5 @@ public class PrecioEntrada {
 		cliente1.Cliente("Jhonny Ninabanda", 1728043421);
 
 	}
-
 }
+
