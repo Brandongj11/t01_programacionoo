@@ -1,6 +1,6 @@
 package programa.ajedrez;
 
-public class Pieza {
+public abstract class Pieza {
 
 	public static void main(String[] args) {
 
